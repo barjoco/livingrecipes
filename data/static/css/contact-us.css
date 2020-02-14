@@ -1,0 +1,45 @@
+.page1 {
+  display: flex;
+  justify-content: center;
+  background-color: white;
+  padding-top: calc(var(--navHeight) * 1.25);
+  padding-bottom: calc(var(--navHeight) * 1);
+  height: 100%;
+}
+
+body {
+  height: 100vh;
+}
+
+h3 {
+  margin-top: 2rem;
+}
+
+p.separator {
+  width: 10%;
+}
+
+a {
+  font-family: "RBTO-REG";
+  text-decoration: none;
+  color: var(--green);
+}
+
+footer {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+}
+
+.page1>div {
+  display: block;
+  width: 51em;
+  margin: 0 1em;
+}
+
+
+@media screen and (orientation:portrait) {
+  .page1>div {
+    width: 85%;
+  }
+}

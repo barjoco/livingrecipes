@@ -1,0 +1,61 @@
+/* Fonts */
+
+@font-face {
+  font-family: "RBTO-REG";
+  src: url(/fonts/Roboto-Regular.ttf);
+}
+
+@font-face {
+  font-family: "RBTO-REG-ITL";
+  src: url(/fonts/Roboto-Italic.ttf);
+}
+
+@font-face {
+  font-family: "RBTO-LIGHT";
+  src: url(/fonts/Roboto-Light.ttf);
+}
+
+@font-face {
+  font-family: "RBTO-LIGHT-ITL";
+  src: url(/fonts/Roboto-LightItalic.ttf);
+}
+
+@font-face {
+  font-family: "RBTO-THIN";
+  src: url(/fonts/Roboto-Thin.ttf);
+}
+
+@font-face {
+  font-family: "RBTO-THIN-ITL";
+  src: url(/fonts/Roboto-ThinItalic.ttf);
+}
+
+@font-face {
+  font-family: "RBTO-BOLD";
+  src: url(/fonts/Roboto-Bold.ttf);
+}
+
+@font-face {
+  font-family: "RBTO-BLACK";
+  src: url(/fonts/Roboto-Black.ttf);
+}
+
+@font-face {
+  font-family: "RBTOSL-REG";
+  src: url(/fonts/RobotoSlab-Regular.ttf);
+}
+
+@font-face {
+  font-family: "RBTOSL-Bold";
+  src: url(/fonts/RobotoSlab-Bold.ttf);
+}
+
+@font-face {
+  font-family: "RBTOSL-LIGHT";
+  src: url(/fonts/RobotoSlab-Light.ttf);
+}
+
+@font-face {
+  font-family: "RBTOSL-THIN";
+  src: url(/fonts/RobotoSlab-Thin.ttf);
+}
